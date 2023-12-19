@@ -1,16 +1,15 @@
 ---
 title: "Use cases with Requirements for Packet Optical Integration (POI) Under ACTN Framework"
 abbrev: "POI Requirements"
-category: info
-
 docname: draft-poidt-ccamp-actn-poi-pluggable-usecases-latest
-submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
-number:
-date:
-consensus: true
-v: 3
+
+stand_alone: true
+ipr: trust200902
 area: Routing Area
-workgroup: CCAMP Working Group
+wg: ccamp
+cat: info
+submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
+
 keyword:
  - coherent
  - photonic
